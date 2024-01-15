@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/cybersayak" target="blank"><img src="https://img.shields.io/twitter/follow/cybersayak?logo=twitter&style=for-the-badge" alt="cybersayak" /></a> </p>
 
-- 🔭 I’m currently working on [We Make Devs](https://wemakedevs.org/)
+- 🔭 I’m currently working as Freelance Software Developer with FullStack and SRE support in  [Upwork](https://www.upwork.com/)
 
 - 🌱 I’m currently learning **React Native**
 
 - 📝 I regularly write articles on (Android ,React Native and Flutter)
 
-- 💬 Ask me about **React Native , Android , Kotlin , KMM , Flutter**
+- 💬 Ask me about **React Native , Android , Kotlin , DevOps, Azure**
 
 - 📫 How to reach me **sayakcse2@gmail.com**
 
