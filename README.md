@@ -1,4 +1,4 @@
-![logo](https://github.com/Cybersayak/Cybersayak/blob/main/Keep%20it%20Cover..jpg)
+![logo](https://github.com/Cybersayak/Cybersayak/blob/main/Keep%20it%20simple2.jpg)
 <h1 align="center">Hi Techies👋, I'm Sayak Ghosh </h1>
 <h3 align="center"> SOFTWARE ENGINEER  </h3>
 
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/cybersayak" target="blank"><img src="https://img.shields.io/twitter/follow/cybersayak?logo=twitter&style=for-the-badge" alt="cybersayak" /></a> </p>
 
-- 🔭 I’m currently working as Freelance Software Developer with **MERN and SRE** support in  [Upwork](https://www.upwork.com/)
+- 🔭 I’m currently working as Freelance Software Developer with **Golang , MERN and Cloud** support in  [Upwork](https://www.upwork.com/)
 
-- 🌱 I’m currently learning **Golang** and interested to work in building server side dev with **Golang**
+- 🌱 I’m currently working on **Golang and Typescript** and interested to work in building server side dev with **Golang**
 
-- 📝 I regularly write articles on (Android ,React Native, Kotlin , NodeJs, Devops and Azure ,)
+- 📝 I regularly write articles on (Golang ,AWS ,Google Cloud, NodeJs, Devops and Azure ,)
 
-- 💬 Ask me about **React Native , Android , Kotlin , DevOps, Azure**
+- 💬 Ask me about **Golang , AWS ,Google Cloud, DevOps, Azure**
 
 - 📫 How to reach me **sayakcse2@gmail.com**
 
