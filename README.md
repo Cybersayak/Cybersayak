@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/cybersayak" target="blank"><img src="https://img.shields.io/twitter/follow/cybersayak?logo=twitter&style=for-the-badge" alt="cybersayak" /></a> </p>
 
-- 🔭 I’m currently working as Freelance Software Developer with **Golang , MERN and Cloud** support in  [Upwork](https://www.upwork.com/)
+- 🔭 I’m currently working as Freelance Software Developer with backend focus **Golang , MERN , Django and Cloud** support in  [Upwork](https://www.upwork.com/)
 
-- 🌱 I’m currently working on **Golang and Typescript** and interested to work in building server side dev with **Golang**
+- 🌱 I’m currently love working on **Golang and Typescript** and interested to work in server side dev with **Golang**
 
 - 📝 I regularly write articles on (Golang ,AWS ,Google Cloud, NodeJs, Devops and Azure ,)
 
-- 💬 Ask me about **Golang , AWS ,Google Cloud, DevOps, Azure**
+- 💬 Ask me about **Golang , AWS , Platform Engineering, DevOps, Azure**
 
 - 📫 How to reach me **sayakcse2@gmail.com**
 
