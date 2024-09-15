@@ -8,9 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/cybersayak" target="blank"><img src="https://img.shields.io/twitter/follow/cybersayak?logo=twitter&style=for-the-badge" alt="cybersayak" /></a> </p>
 
-- 🔭 I’m currently working as Freelance Software Developer with backend focus **Golang , MERN , Django and Cloud** support in  [Upwork](https://www.upwork.com/)
+- 🔭 I’m currently Freelancing  as  Software Developer with backend focus **Golang , MERN , Django and Cloud** support in  [Upwork](https://www.upwork.com/)
 
 - 🌱 I’m currently love working on **Golang and Typescript** and interested to work in server side dev with **Node** & **Golang**
+
+- 🌱 I have previous experience for working on **Native Android and  React Native** and interested to work in any Mobile apps with **Typescript** & **Kotlin** ,exploring **KMM**
 
 - 📝 I regularly write articles on (Golang ,AWS ,Google Cloud, NodeJs, Devops and Azure ,)
 
