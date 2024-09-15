@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **sayakcse2@gmail.com**
 
-- 📄 Know about me and my experiences by connecting here [https://www.linkedin.com/in/sayakghosh-dev/](https://www.linkedin.com/in/cybersayak/)
+- 📄 Know about me and my experiences by connecting here [https://www.linkedin.com/in/cybersayak/](https://www.linkedin.com/in/cybersayak/)
 
 
 <h2 align="left">I code with</h2>
