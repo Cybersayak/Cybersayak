@@ -14,7 +14,7 @@
 
 - 🌱 I have previous experience for working on **Native Android and  React Native** and interested to work in any Mobile apps with **Typescript** & **Kotlin** ,exploring **KMM**
 
-- 📝 I regularly write articles on (Golang ,AWS ,Google Cloud, NodeJs, Devops and Azure ,)
+- 📝 I regularly write articles on (Golang ,AWS ,Platform Engineering , NodeJs, Devops and Site Reliability and Infra Stuff )
 
 - 💬 Ask me about **Golang , AWS , Platform Engineering, DevOps, Azure**
 
