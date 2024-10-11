@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/cybersayak" target="blank"><img src="https://img.shields.io/twitter/follow/cybersayak?logo=twitter&style=for-the-badge" alt="cybersayak" /></a> </p>
 
-- 🔭 I’m currently Freelancing  as  Software Developer with backend focus **Golang , MERN , Django and Cloud** support in  [Upwork](https://www.upwork.com/)
+- 🔭 I’m currently Freelancing  as  Software Developer with backend focus **Node Js , Golang , Django , FastAPI and AWS Cloud** support in various freelance platforms.
 
-- 🌱 I’m currently love working on **Golang and Typescript** and interested to work in server side dev with **Node** & **Golang**
+- 🌱 I’m interested to work in server side dev with **Golang and Typescript**
 
-- 🌱 I have previous experience for working on **Native Android and  React Native** and interested to work in any Mobile apps with **Typescript** & **Kotlin** ,exploring **KMM**
+- 🌱 I have previous experience for working on **Native Android** and free to work with any Mobile apps in leisure time, in **ReactNative** or  **Kotlin**  for **KMM** 
 
 - 📝 I regularly write articles on (Golang ,AWS ,Platform Engineering , NodeJs, Devops and Site Reliability and Infra Stuff )
 
-- 💬 Ask me about **Golang , AWS , Platform Engineering, DevOps, Azure**
+- 💬 Ask me about **Golang , AWS ,JS , Platform Engineering, DevOps, Azure**
 
-- 📫 How to reach me **sayakcse2@gmail.com**
+- 📫 How to reach me **sayakcse2@gmail.com** 
 
 - 📄 Know about me and my experiences by connecting here [https://www.linkedin.com/in/cybersayak/](https://www.linkedin.com/in/cybersayak/)
 
