@@ -12,7 +12,7 @@
 
 - 🌱 I’m interested to work in server side dev with **Golang and Typescript**
 
-- 🌱 I have previous experience for working on **Native Android** and free to work with any Mobile apps in leisure time, in **ReactNative** or  **Kotlin**  for **KMM** 
+- 🌱 I have previous experience for working on **Native Android** and free to work with any Mobile apps in leisure time, in **React Native** or  **Kotlin**  
 
 - 📝 I regularly write articles on (Golang ,AWS ,Platform Engineering , NodeJs, Devops and Site Reliability and Infra Stuff )
 
