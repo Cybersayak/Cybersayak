@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/cybersayak" target="blank"><img src="https://img.shields.io/twitter/follow/cybersayak?logo=twitter&style=for-the-badge" alt="cybersayak" /></a> </p>
 
-- 🔭 I’m currently Freelancing  as  Software Developer with backend focus **Node Js , Golang , Django , FastAPI and AWS Cloud** support in various freelance platforms.
+- 🔭 I’m currently Freelancing  as  Software Developer with backend focus **Node Js , Golang , NextJs and AWS Cloud** support in various freelance platforms.
 
 - 🌱 I’m interested to work in server side dev with **Golang and Typescript**
 
@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on (Golang ,AWS ,Platform Engineering , NodeJs, Devops and Site Reliability and Infra Stuff )
 
-- 💬 Ask me about **Golang , AWS ,JS , Platform Engineering, DevOps, Azure**
+- 💬 Ask me about **Golang , AWS ,JS , Platform Engineering, DevOps **
 
 - 📫 How to reach me **sayakcse2@gmail.com** 
 
