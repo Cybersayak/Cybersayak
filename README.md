@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on (Golang ,AWS ,Platform Engineering , NodeJs, Devops and Site Reliability and Infra Stuff )
 
-- 💬 Ask me about **Golang , AWS ,JS , Platform Engineering, DevOps **
+- 💬 Ask me about  **Backend , Platform Engineering, DevOps**
 
 - 📫 How to reach me **sayakcse2@gmail.com** 
 
@@ -88,4 +88,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybersayak&show_icons=true&locale=en" alt="cybersayak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybersayak&" alt="cybersayak" /></p>
+
