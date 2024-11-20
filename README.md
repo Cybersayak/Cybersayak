@@ -88,4 +88,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybersayak&show_icons=true&locale=en" alt="cybersayak" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Cybersayak)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cybersayak)](https://git.io/streak-stats)
